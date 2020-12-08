@@ -1,0 +1,16 @@
+:root {
+    --bg-color-1: grey;
+}
+
+head{
+    background-color: lightgrey;
+}
+
+body{
+    background-color: grey;
+}
+
+
+.random{
+    background-color: lightblue;
+}
